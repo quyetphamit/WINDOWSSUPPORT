@@ -1,0 +1,9 @@
+D:\VOC\WindowsSupport\WindowsSupport\bin\Debug\WindowsSupport.exe.config
+D:\VOC\WindowsSupport\WindowsSupport\bin\Debug\WindowsSupport.exe
+D:\VOC\WindowsSupport\WindowsSupport\bin\Debug\WindowsSupport.pdb
+D:\VOC\WindowsSupport\WindowsSupport\obj\Debug\WindowsSupport.frmMain.resources
+D:\VOC\WindowsSupport\WindowsSupport\obj\Debug\WindowsSupport.Properties.Resources.resources
+D:\VOC\WindowsSupport\WindowsSupport\obj\Debug\WindowsSupport.csproj.GenerateResource.Cache
+D:\VOC\WindowsSupport\WindowsSupport\obj\Debug\WindowsSupport.exe
+D:\VOC\WindowsSupport\WindowsSupport\obj\Debug\WindowsSupport.pdb
+D:\VOC\WindowsSupport\WindowsSupport\obj\Debug\WindowsSupport.csprojResolveAssemblyReference.cache

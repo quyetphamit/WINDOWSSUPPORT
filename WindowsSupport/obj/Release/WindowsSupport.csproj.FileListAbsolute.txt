@@ -1,0 +1,8 @@
+D:\VOC\WindowsSupport\WindowsSupport\bin\Release\WindowsSupport.exe.config
+D:\VOC\WindowsSupport\WindowsSupport\bin\Release\WindowsSupport.exe
+D:\VOC\WindowsSupport\WindowsSupport\bin\Release\WindowsSupport.pdb
+D:\VOC\WindowsSupport\WindowsSupport\obj\Release\WindowsSupport.frmMain.resources
+D:\VOC\WindowsSupport\WindowsSupport\obj\Release\WindowsSupport.Properties.Resources.resources
+D:\VOC\WindowsSupport\WindowsSupport\obj\Release\WindowsSupport.csproj.GenerateResource.Cache
+D:\VOC\WindowsSupport\WindowsSupport\obj\Release\WindowsSupport.exe
+D:\VOC\WindowsSupport\WindowsSupport\obj\Release\WindowsSupport.pdb
